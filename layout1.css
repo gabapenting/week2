@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: peachpuff;
+}
+
+header {
+    background-color: rgb(32, 184, 184);
+    text-align: center;
+    font-size: 32px;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
+    border: 16px solid greenyellow;
+}
+
+.pics {
+    text-align: center;
+}
+
+.img {
+    background-color: rgb(241, 163, 202);
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+.img img {
+    width: 100%;
+}
